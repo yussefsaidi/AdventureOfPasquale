@@ -12,9 +12,9 @@ No installation needed.
 
 ## Built With
 
-* Original Music and characters
 * [Unity](https://unity.com/) - The engine used
 * C# - Used for scripting, to give enemies and player functionalities
+* Original Music and characters
 
 ## Authors
 
