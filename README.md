@@ -12,11 +12,11 @@ Winrar or other software to unzip folder.
 
 ### Installation
 
-Simply download the archive of all the files, unzip them into an accessible location. Double click and launch "Adventure Of Pasquale.exe". You will then get this screen: https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/Launch%20Menu.png
+Simply download the archive of all the files, unzip them into an accessible location. Double click and launch "Adventure Of Pasquale.exe". You will then get this screen: ![Launch Menu](https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/Launch%20Menu.png)
 Simply click on play.
-You then have access to the start screen of the game: https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/Main%20Menu.jpg
+You then have access to the start screen of the game: ![In-Game Main Menu](https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/Main%20Menu.jpg)
 
-Click Start and you can start playing! This is what the first scene of the game looks like: https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/First%20Scene.png
+Click Start and you can start playing! This is what the first scene of the game looks like: ![First Scene of game](https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/First%20Scene.png)
 
 ## Built With
 
