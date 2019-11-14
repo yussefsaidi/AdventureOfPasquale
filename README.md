@@ -24,6 +24,8 @@ Simply click on play. You then have access to the start screen of the game:
 Click Start and you can start playing! This is what the first scene of the game looks like: 
 ![First Scene of game](https://github.com/yussefsaidi/AdventureOfPasquale/blob/master/First%20Scene.png)
 
+Have fun!
+
 ## Built With
 
 * [Unity](https://unity.com/) - The engine used
